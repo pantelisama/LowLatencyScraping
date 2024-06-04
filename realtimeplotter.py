@@ -18,7 +18,7 @@ ax = fig.add_subplot(1, 1, 1)
 xs = []
 ys = []
 
-#pantelos commit2
+#pantelos commit3
 
 # This function is called periodically from FuncAnimation
 def animate(i, xs, ys):
