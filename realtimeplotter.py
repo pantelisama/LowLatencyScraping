@@ -13,7 +13,7 @@ driver = webdriver.Chrome(options=options)
 driver.get("http://192.1.0.131/Web/Index.htm")
 driver.implicitly_wait(6)
 
-# Create figure for plotting
+## Create figure for plotting
 fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
 xs = []
